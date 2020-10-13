@@ -1,5 +1,5 @@
-Nombre:
-edad:
-carrera:
-omida favorita:
-juego favorito:
+Nombre: Jesus Alberto Cruz Martinez
+edad:21
+carrera:Ingenieria en computacion
+omida favorita: pizza
+juego favorito: among us
