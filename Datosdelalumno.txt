@@ -1,0 +1,5 @@
+Nombre:
+edad:
+carrera:
+omida favorita:
+juego favorito:
